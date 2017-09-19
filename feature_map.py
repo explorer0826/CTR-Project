@@ -1,5 +1,5 @@
 #! /usr/bin/python
-
+# -*- coding:utf-8 -*-
 
 import sys
 from sklearn.feature_extraction.text import TfidfVectorizer
